@@ -1,4 +1,3 @@
-# README.md
 ### **Hi, I'm André Rodrigues. Welcome to my profile here on Github!** 👋
 
 
