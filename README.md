@@ -1,13 +1,6 @@
 ### **Hi, I'm André Rodrigues. Welcome to my profile here on Github!** 👋
 
-<div align="left">
-  <a href="https://github.com/andreeerod">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=andreeerod&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeerod&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
-</div>
 
-<br>
 
 <div style="display: inline_block">
   <img align="center" alt="Andre-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
