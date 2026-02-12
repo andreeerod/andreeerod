@@ -1,7 +1,6 @@
 ### **Hi, I'm André Rodrigues. Welcome to my profile here on Github!** 👋
 
 
-
 <div style="display: inline_block">
   <img align="center" alt="Andre-HTML" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -15,6 +14,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
   <img align="center" alt="Andre-React" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  <img align="center" alt="Andre-NextJS" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
   <img align="center" alt="Andre-NestJS" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"/>
 </div>
