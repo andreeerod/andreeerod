@@ -13,8 +13,12 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"/>
   <img align="center" alt="Andre-React" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" alt="Andre-NextJS" height="40" width="50"
+
+  <!-- Next.js maior -->
+  <img align="center" alt="Andre-NextJS" height="60" width="70"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
-  <img align="center" alt="Andre-Swift" height="40" width="50"
+
+  <!-- Swift maior -->
+  <img align="center" alt="Andre-Swift" height="60" width="70"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg"/>
 </div>
